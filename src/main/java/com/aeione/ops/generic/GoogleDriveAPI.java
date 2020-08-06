@@ -26,7 +26,8 @@ import java.util.List;
 /**
  * @author Kirthana SS
  *
- * To Authorize user to access Google Drive and store user credentails
+ * To Handle Google Drive such as ::  Donloading, uploading files etc
+ *
  *
  */
 public class GoogleDriveAPI {
