@@ -570,4 +570,39 @@ public class GoogleSheetAPI {
         return totalSheets;
     }
 
+
+    public List<List<Object>> getSpreadSheetRowValuesAndArrange(String TEST_DATA_GOOGLESHEET, String range) throws Exception {
+
+        List<List<Object>> updatedRowValues=new ArrayList<>();
+
+
+        //Get Row Values
+        List<List<Object>> rowvalues = getSpreadSheetRecords(TEST_DATA_GOOGLESHEET, range);
+        System.out.println(rowvalues);
+
+        //get number of columns
+        int header=rowvalues.get(0).size();
+
+
+        outerloop :
+        for (int j = 0; j <= rowvalues.size()-1; j++)
+        {
+           int rowsize=rowvalues.get(j).size();
+
+           System.out.println(rowsize);
+
+           int a=header-rowsize;
+
+           for(int i=0; i<=a-1;i++)
+            {
+                 rowvalues.get(j).add("");
+            }
+
+
+        }
+
+
+        return rowvalues;
+    }
+
 }

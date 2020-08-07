@@ -7,7 +7,7 @@
     <parameter name="RunHeadless" value="true"></parameter>
 
     <listeners>
-<!--        <listener class-name="com.aeione.ops.generic.AnnotationTransformerListener"></listener>-->
+        <listener class-name="com.aeione.ops.generic.AnnotationTransformerListener"></listener>
         <listener class-name="com.aeione.ops.generic.TestListener"></listener>
     </listeners>
 
