@@ -1,7 +1,7 @@
 package com.aeione.ops.generic;
 
-import org.testng.*;
-import org.testng.annotations.*;
+import org.testng.IAnnotationTransformer;
+import org.testng.annotations.ITestAnnotation;
 
 import java.io.IOException;
 import java.lang.reflect.Constructor;
@@ -118,36 +118,21 @@ public class AnnotationTransformerListener implements IAnnotationTransformer {
 
             System.out.println(module + "," + executionMode + "," + suiteType);
 
-            switch(executionMode)
-            {
-                case Enabled:
+            switch(executionMode) {
+                case ENABLED:
                     annotation.setEnabled(true);
                     break;
 
-                case Disabled:
+                case DISABLED:
                     annotation.setEnabled(false);
                     break;
 
-                case Enabled_Specific_Test_Cases:
-                    if(Boolean.valueOf(enabled.toLowerCase())==true && !enabled.trim().equals(""))
-                    {
-                        annotation.setEnabled(true);
-                    }
-                    else
-                    {
-                        annotation.setEnabled(false);
-                    }
+                case ENABLED_SPECIFIC_TEST_CASES:
+                    annotation.setEnabled(Boolean.valueOf(enabled.toLowerCase()) == true && !enabled.trim().equals(""));
                     break;
 
-                case Disabled_Specific_Test_Cases:
-                    if(Boolean.valueOf(enabled.toLowerCase())==false && !enabled.trim().equals(""))
-                    {
-                        annotation.setEnabled(false);
-                    }
-                    else
-                    {
-                        annotation.setEnabled(true);
-                    }
+                case DISABLED_SPECIFIC_TEST_CASES:
+                    annotation.setEnabled(Boolean.valueOf(enabled.toLowerCase()) != false || enabled.trim().equals(""));
                     break;
 
             }

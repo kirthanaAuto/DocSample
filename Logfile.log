@@ -4591,3 +4591,759 @@
 2020-08-07 18:28:21,120 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_03_LoginViaValidEmailAndPassword succeed , I am in onTestSuccess class LoginPageTest succeed 
 2020-08-07 18:28:26,776 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
 2020-08-07 18:28:29,268 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-15 10:49:20,080 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-15 10:49:38,499 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-15 10:49:47,212 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-15 10:49:55,213 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-15 10:49:56,637 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-15 10:50:01,636 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-15 10:50:03,394 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-15 10:50:08,304 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-15 10:50:25,834 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_05_P1_SelectCountryCodeTest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-15 10:50:30,982 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-15 10:50:33,504 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-15 10:51:00,142 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 09:54:18,842 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-16 09:54:33,726 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 09:54:44,696 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 09:54:52,974 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 09:54:54,442 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 09:55:00,544 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 09:55:02,662 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 09:55:07,971 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 09:55:48,151 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_05_P1_SelectCountryCodeTest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 09:55:53,073 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 09:55:55,232 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 09:56:08,672 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 09:56:48,803 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_01_P1_ContentsOfLoginPageTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 09:56:53,731 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 09:57:55,685 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 09:58:00,792 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 09:59:02,888 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 09:59:07,750 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:00:09,455 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_03_LoginViaValidEmailAndPassword failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:00:14,626 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:01:16,636 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:01:32,939 INFO  [GenericFunctions] I am in onTestStart method TC_HM_01_P1_ContentsOfHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:02:34,707 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_01_P1_ContentsOfHomePageTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:03:21,714 INFO  [GenericFunctions] I am in onTestStart method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:03:46,850 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:03:55,370 INFO  [GenericFunctions] I am in onTestStart method TC_HM_03_P1_VerifyFollowedUserPostTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:04:49,190 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_03_P1_VerifyFollowedUserPostTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:04:55,440 INFO  [GenericFunctions] I am in onTestStart method TC_HM_04_P1_VerifyPublishedBlogTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:06:15,629 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-16 10:06:28,878 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:06:37,095 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 10:06:45,918 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:06:47,617 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 10:06:54,366 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:06:56,224 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 10:07:01,664 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:07:41,823 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_05_P1_SelectCountryCodeTest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 10:07:46,813 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:07:49,444 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 10:08:02,884 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:08:42,975 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_01_P1_ContentsOfLoginPageTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:08:47,874 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:09:49,880 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:09:55,217 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:10:57,052 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:11:02,620 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:12:04,717 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_03_LoginViaValidEmailAndPassword failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:12:09,788 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:13:11,684 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:13:28,846 INFO  [GenericFunctions] I am in onTestStart method TC_HM_01_P1_ContentsOfHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:14:30,773 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_01_P1_ContentsOfHomePageTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:15:17,072 INFO  [GenericFunctions] I am in onTestStart method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:15:41,181 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:15:50,079 INFO  [GenericFunctions] I am in onTestStart method TC_HM_03_P1_VerifyFollowedUserPostTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:16:44,470 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_03_P1_VerifyFollowedUserPostTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:16:50,611 INFO  [GenericFunctions] I am in onTestStart method TC_HM_04_P1_VerifyPublishedBlogTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:18:24,199 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_04_P1_VerifyPublishedBlogTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:18:34,743 INFO  [GenericFunctions] I am in onTestStart method TC_HM_05_P1_ContentsOfSuggestedListTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:19:18,635 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_05_P1_ContentsOfSuggestedListTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:19:24,528 INFO  [GenericFunctions] I am in onTestStart method TC_HM_06_P1_VerifyFollowUserButtonTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:20:10,909 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_06_P1_VerifyFollowUserButtonTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:20:17,602 INFO  [GenericFunctions] I am in onTestStart method TC_HM_07_P1_VerifyCreatePostAreaTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:20:56,186 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_07_P1_VerifyCreatePostAreaTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:21:02,252 INFO  [GenericFunctions] I am in onTestStart method TC_HM_08_P1_VerifyOpportunityWidgetTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:21:36,698 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_08_P1_VerifyOpportunityWidgetTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:21:42,822 INFO  [GenericFunctions] I am in onTestStart method TC_HM_09_P1_VerifyMessangerPopUpTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:22:06,689 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_09_P1_VerifyMessangerPopUpTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:22:21,880 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_01_P1_verifyContentsOfPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 10:23:23,718 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_01_P1_verifyContentsOfPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 10:24:10,557 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_02_P1_verifyAudioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 10:24:42,962 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_02_P1_verifyAudioPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 10:24:42,970 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_02_P1_verifyAudioPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 10:24:48,426 INFO  [GenericFunctions] I am in onFinish method Chrome-Execution 
+2020-08-16 10:26:44,792 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-16 10:27:06,239 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:27:14,349 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 10:27:22,607 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:27:24,223 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 10:27:30,066 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:27:31,982 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 10:27:37,767 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:28:17,883 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_05_P1_SelectCountryCodeTest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 10:28:23,306 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 10:28:25,534 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 10:28:42,510 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:29:22,641 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_01_P1_ContentsOfLoginPageTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:29:28,112 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:30:31,008 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:30:37,743 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:31:39,608 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:31:45,326 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:32:47,327 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_03_LoginViaValidEmailAndPassword failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:32:53,026 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 10:33:54,948 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 10:34:19,264 INFO  [GenericFunctions] I am in onTestStart method TC_HM_01_P1_ContentsOfHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:35:21,128 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_01_P1_ContentsOfHomePageTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:36:09,390 INFO  [GenericFunctions] I am in onTestStart method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:36:33,634 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:36:42,835 INFO  [GenericFunctions] I am in onTestStart method TC_HM_03_P1_VerifyFollowedUserPostTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:37:37,247 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_03_P1_VerifyFollowedUserPostTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:37:47,211 INFO  [GenericFunctions] I am in onTestStart method TC_HM_04_P1_VerifyPublishedBlogTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:39:21,387 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_04_P1_VerifyPublishedBlogTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 10:39:28,791 INFO  [GenericFunctions] I am in onTestStart method TC_HM_05_P1_ContentsOfSuggestedListTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:39:52,826 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_05_P1_ContentsOfSuggestedListTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:39:57,860 INFO  [GenericFunctions] I am in onTestStart method TC_HM_06_P1_VerifyFollowUserButtonTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:40:23,832 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_06_P1_VerifyFollowUserButtonTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:40:28,769 INFO  [GenericFunctions] I am in onTestStart method TC_HM_07_P1_VerifyCreatePostAreaTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:41:08,069 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_07_P1_VerifyCreatePostAreaTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:41:15,920 INFO  [GenericFunctions] I am in onTestStart method TC_HM_08_P1_VerifyOpportunityWidgetTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:41:50,834 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_08_P1_VerifyOpportunityWidgetTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:41:59,256 INFO  [GenericFunctions] I am in onTestStart method TC_HM_09_P1_VerifyMessangerPopUpTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 10:42:22,778 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_09_P1_VerifyMessangerPopUpTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 10:42:47,646 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_01_P1_verifyContentsOfPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 10:43:47,142 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_01_P1_verifyContentsOfPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:21:48,394 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-16 11:22:03,934 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 11:22:14,793 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 11:22:22,686 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 11:22:24,246 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 11:22:29,181 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 11:22:31,295 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 11:22:36,521 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 11:23:16,622 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_05_P1_SelectCountryCodeTest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 11:23:21,278 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 11:23:23,813 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 11:23:37,671 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 11:24:17,837 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_01_P1_ContentsOfLoginPageTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 11:24:22,634 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 11:25:24,627 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 11:25:29,292 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 11:26:31,396 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 11:26:36,520 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-16 11:27:38,501 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_03_LoginViaValidEmailAndPassword failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 11:27:43,359 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 11:28:45,817 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 11:29:01,916 INFO  [GenericFunctions] I am in onTestStart method TC_HM_01_P1_ContentsOfHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:30:03,861 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_01_P1_ContentsOfHomePageTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 11:30:51,216 INFO  [GenericFunctions] I am in onTestStart method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:31:15,604 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:31:23,917 INFO  [GenericFunctions] I am in onTestStart method TC_HM_03_P1_VerifyFollowedUserPostTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:32:19,386 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_03_P1_VerifyFollowedUserPostTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:32:25,638 INFO  [GenericFunctions] I am in onTestStart method TC_HM_04_P1_VerifyPublishedBlogTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:33:58,901 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_04_P1_VerifyPublishedBlogTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 11:34:05,889 INFO  [GenericFunctions] I am in onTestStart method TC_HM_05_P1_ContentsOfSuggestedListTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:34:29,521 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_05_P1_ContentsOfSuggestedListTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:34:33,942 INFO  [GenericFunctions] I am in onTestStart method TC_HM_06_P1_VerifyFollowUserButtonTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:34:59,716 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_06_P1_VerifyFollowUserButtonTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:35:04,282 INFO  [GenericFunctions] I am in onTestStart method TC_HM_07_P1_VerifyCreatePostAreaTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:35:43,527 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_07_P1_VerifyCreatePostAreaTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:35:49,628 INFO  [GenericFunctions] I am in onTestStart method TC_HM_08_P1_VerifyOpportunityWidgetTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:36:24,507 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_08_P1_VerifyOpportunityWidgetTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:36:30,591 INFO  [GenericFunctions] I am in onTestStart method TC_HM_09_P1_VerifyMessangerPopUpTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 11:36:54,112 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_09_P1_VerifyMessangerPopUpTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 11:37:09,309 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_01_P1_verifyContentsOfPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:38:11,278 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_01_P1_verifyContentsOfPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:38:58,587 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_02_P1_verifyAudioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:39:37,686 INFO  [GenericFunctions] I am in onTestSuccess method tc_PWH_02_P1_verifyAudioPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:39:46,251 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_03_P1_verifyVideoPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:40:25,161 INFO  [GenericFunctions] I am in onTestSuccess method tc_PWH_03_P1_verifyVideoPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:40:31,404 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_04_P1_verifyHashTagDropDownTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:40:57,050 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_04_P1_verifyHashTagDropDownTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:41:02,074 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_05_P1_verifyRestrictedContentToggleButtonTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:41:42,315 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_05_P1_verifyRestrictedContentToggleButtonTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:41:48,486 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_06_P1_verifyRestrictedContentPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:42:27,762 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_06_P1_verifyRestrictedContentPost succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:42:33,993 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_07_P1_verifyPayPerPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:44:07,758 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_07_P1_verifyPayPerPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:44:15,036 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_08_P1_verifyUnlockPayPerPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:45:49,148 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_08_P1_verifyUnlockPayPerPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:45:55,890 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_09_P1_verifyEditActonPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:46:31,438 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_09_P1_verifyEditActonPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:46:36,329 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_10_P1_verifyDeletePostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:47:11,713 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_10_P1_verifyDeletePostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:47:17,803 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_11_P1_verifySharePostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:48:55,001 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_11_P1_verifySharePostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:49:02,187 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_12_P1_VerifyCreateMyJourneyHashTagPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:49:42,060 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_12_P1_VerifyCreateMyJourneyHashTagPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:49:48,384 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_13_P1_VerifyMyJourneyPostEditAndDeleteActionTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:50:36,437 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_13_P1_VerifyMyJourneyPostEditAndDeleteActionTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:50:44,693 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_14_P1_verifyCreateShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:51:19,953 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_14_P1_verifyCreateShowtimezPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:51:26,146 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_15_P1_VerifyEditShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:51:59,747 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_15_P1_VerifyEditShowtimezPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:52:06,063 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_16_P1_VerifyReachOutShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:53:32,517 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_16_P1_VerifyReachOutShowtimezPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:53:42,552 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_17_P1_VerifyDeleteShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:54:26,785 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_17_P1_VerifyDeleteShowtimezPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:54:35,417 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_18_P1_VerifyCreateBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:55:15,323 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_18_P1_VerifyCreateBlueStoreHashTagPost succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:55:22,067 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_19_P1_VerifyEditBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:56:01,546 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_19_P1_VerifyEditBlueStoreHashTagPost succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:56:06,284 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_20_P1_VerifyShareBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:57:04,724 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_20_P1_VerifyShareBlueStoreHashTagPost failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 11:57:11,632 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_2_P1_VerifyDeleteBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:57:54,871 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_2_P1_VerifyDeleteBlueStoreHashTagPost succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:58:01,471 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_22_P1_VerifyCreateOpportunityHashTagPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:58:40,984 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_22_P1_VerifyCreateOpportunityHashTagPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:58:47,496 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_23_P1_VerifyContentsOfCreateOpportunityHashTagPopUpTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 11:59:13,401 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_23_P1_VerifyContentsOfCreateOpportunityHashTagPopUpTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 11:59:18,637 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_24_P1_VerifyCreatePortfolioHashTagPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 12:00:06,877 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_24_P1_VerifyCreatePortfolioHashTagPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 12:00:13,217 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_25_P1_VerifyCreatePortfolioHashTagRestrictedPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 12:00:47,938 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_25_P1_VerifyCreatePortfolioHashTagRestrictedPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 12:00:57,480 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_26_P1_VerifyActionsOfPortfolioPostInPortfolioInnerPageTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 12:02:01,163 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_26_P1_VerifyActionsOfPortfolioPostInPortfolioInnerPageTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 12:02:10,482 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_27_P1_VerifyEditPortfolioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 12:02:50,689 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_27_P1_VerifyEditPortfolioPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 12:02:56,790 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_28_P1_VerifyDeletePortfolioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 12:03:37,630 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_28_P1_VerifyDeletePortfolioPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 12:03:55,082 INFO  [GenericFunctions] I am in onTestStart method tc_PC_12_P1_VerifyContentsOfPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:04:58,465 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_12_P1_VerifyContentsOfPostCardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:05:45,723 INFO  [GenericFunctions] I am in onTestStart method tc_PC_02_P1_VerifyBuyCoinsButtonInContributionPopupTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:06:31,401 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_02_P1_VerifyBuyCoinsButtonInContributionPopupTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:06:38,491 INFO  [GenericFunctions] I am in onTestStart method tc_PC_03_P1_VerifyDeletePostCardWithYesButtonTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:07:11,649 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_03_P1_VerifyDeletePostCardWithYesButtonTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:07:19,035 INFO  [GenericFunctions] I am in onTestStart method tc_PC_04_P1_VerifyBoostButtonInPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:07:51,293 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_04_P1_VerifyBoostButtonInPostCardTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 12:07:59,570 INFO  [GenericFunctions] I am in onTestStart method tc_PC_08_P2_VerifyShareButtonInPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:08:30,708 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_08_P2_VerifyShareButtonInPostCardTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 12:08:35,271 INFO  [GenericFunctions] I am in onTestStart method tc_PC_09_P2_VerifyLikeButtonInPostcardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:09:10,207 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_09_P2_VerifyLikeButtonInPostcardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:09:34,007 INFO  [GenericFunctions] I am in onTestStart method tc_PC_10_P2_VerifyCommentOnPostTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:10:40,501 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_10_P2_VerifyCommentOnPostTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:10:47,521 INFO  [GenericFunctions] I am in onTestStart method tc_PC_11_P1_VerifyContentsOfFollowedUserPostcardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:13:46,954 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_11_P1_VerifyContentsOfFollowedUserPostcardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:13:54,504 INFO  [GenericFunctions] I am in onTestStart method tc_PC_14_P1_VerifyRepostPostTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:14:37,003 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_14_P1_VerifyRepostPostTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 12:14:41,795 INFO  [GenericFunctions] I am in onTestStart method tc_PC_13_P1_VerifyBoostPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 12:16:17,446 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_13_P1_VerifyBoostPostCardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 12:16:35,608 INFO  [GenericFunctions] I am in onTestStart method tc_PP_01_P1_VerifyViewProfileLinkTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:17:37,748 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_01_P1_VerifyViewProfileLinkTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:17:53,115 INFO  [GenericFunctions] I am in onTestStart method tc_PP_02_P1_VerifyViewProfileLinkFunctionalityTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:18:33,238 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_02_P1_VerifyViewProfileLinkFunctionalityTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:18:38,806 INFO  [GenericFunctions] I am in onTestStart method tc_PP_03_P1_VerifyEditProfilePictureTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:19:23,330 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_03_P1_VerifyEditProfilePictureTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:19:28,722 INFO  [GenericFunctions] I am in onTestStart method tc_PP_04_P1_VerifyNavigationToPortfolioPageTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:20:08,990 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_04_P1_VerifyNavigationToPortfolioPageTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:20:14,915 INFO  [GenericFunctions] I am in onTestStart method tc_PP_05_P1_VerifyUserDetailsUnderAboutSectionTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:20:58,223 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_05_P1_VerifyUserDetailsUnderAboutSectionTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:21:04,496 INFO  [GenericFunctions] I am in onTestStart method tc_PP_06_P1_VerifyCreatingPostFromProfilePageTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:21:47,617 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_06_P1_VerifyCreatingPostFromProfilePageTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:21:52,779 INFO  [GenericFunctions] I am in onTestStart method tc_PP_07_P1_VerifyCreatingSpecialHashtagPostTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 12:22:36,173 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_07_P1_VerifyCreatingSpecialHashtagPostTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 12:22:53,794 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_01_P1_VerifyUploadProfileImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:24:05,462 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_01_P1_VerifyUploadProfileImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:24:52,413 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_02_P1_VerifyUploadCoverImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:25:21,626 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_02_P1_VerifyUploadCoverImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:25:30,812 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_03_P1_VerifyEditCoverImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:25:56,028 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_03_P1_VerifyEditCoverImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:26:01,029 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_04_P1_VerifyContentsCoverIconsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:26:27,709 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_04_P1_VerifyContentsCoverIconsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:26:33,200 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_05_P1_VerifyDeleteCoverImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:26:57,729 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_05_P1_VerifyDeleteCoverImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:27:03,022 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_06_P1_VerifyContentsOfGeneralInfoTabTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:27:27,907 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_06_P1_VerifyContentsOfGeneralInfoTabTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:27:33,482 INFO  [GenericFunctions] I am in onTestStart method TC_PCM_07_P1_VerifyEditGeneralInfoSectionTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:28:07,722 INFO  [GenericFunctions] I am in onTestFailure method TC_PCM_07_P1_VerifyEditGeneralInfoSectionTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:28:13,915 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_08_P1_VerifyContentsOfAboutTabTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:28:38,387 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_08_P1_VerifyContentsOfAboutTabTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:28:54,027 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_09_P1_VerifyEditAboutSectionTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:29:22,802 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_09_P1_VerifyEditAboutSectionTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:29:32,297 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_10_P1_VerifyUserLocationVisibleToEveryoneTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:30:05,737 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_10_P1_VerifyUserLocationVisibleToEveryoneTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:30:12,825 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_11_P1_VerifyUserLocationVisibleToPeopleWhoFollowsYouTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:30:26,710 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_11_P1_VerifyUserLocationVisibleToPeopleWhoFollowsYouTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:30:49,957 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_12_P1_VerifyUserLocationVisibleToPeopleYouFollowTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:32:00,851 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_12_P1_VerifyUserLocationVisibleToPeopleYouFollowTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:32:08,903 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_13_P1_VerifyUserLocationVisibleToOnlyMeTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:32:34,306 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_13_P1_VerifyUserLocationVisibleToOnlyMeTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:32:39,519 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_14_P1_VerifyAddWorkExperienceTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:33:06,431 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_14_P1_VerifyAddWorkExperienceTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:33:12,130 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_15_P1_VerifyEditWorkExperienceTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:33:37,129 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_15_P1_VerifyEditWorkExperienceTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:33:42,246 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_16_P1_VerifyDefaultProfileCompletionPercentageAddedOnRegistrationTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:35:15,212 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_16_P1_VerifyDefaultProfileCompletionPercentageAddedOnRegistrationTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:35:21,862 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_17_P1_VerifyPercentageIncrementedOnAddingSkillsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:35:48,153 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_17_P1_VerifyPercentageIncrementedOnAddingSkillsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:35:53,694 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_18_P1_VerifyPercentageIncrementedOnAddingDescriptionTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:36:19,158 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_18_P1_VerifyPercentageIncrementedOnAddingDescriptionTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:36:25,023 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_19_P1_VerifyPercentageIncrementedOnAddingLanguageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:36:35,097 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_19_P1_VerifyPercentageIncrementedOnAddingLanguageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:36:47,707 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_20_P1_VerifyPercentageIncrementedOnAddingContactLocationTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:37:13,268 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_20_P1_VerifyPercentageIncrementedOnAddingContactLocationTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:37:20,075 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_21_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingWorkExperienceTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:37:48,116 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_21_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingWorkExperienceTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:37:54,998 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_22_P1_VerifyContentsOfAddAwardSection start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:38:20,035 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_22_P1_VerifyContentsOfAddAwardSection failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:38:24,946 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_23_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingAwardDetailsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:38:51,370 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_23_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingAwardDetailsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:38:56,678 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_24_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingEducationDetailsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:39:23,026 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_24_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingEducationDetailsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:39:28,090 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_25_P1_VerifyAddAwardTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:39:52,509 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_25_P1_VerifyAddAwardTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:39:59,794 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_26_P1_VerifyContentsOfContactTabTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:40:24,450 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_26_P1_VerifyContentsOfContactTabTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:40:31,566 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_27_P1_VerifyContentsOfAddWorkExperiencePageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:40:57,037 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_27_P1_VerifyContentsOfAddWorkExperiencePageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:41:02,940 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_28_P1_VerifyContentsOfAddEducationPageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:41:28,240 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_28_P1_VerifyContentsOfAddEducationPageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:41:35,022 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_29_P1_VerifyCurrentStudyingRadioButtonTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 12:42:01,475 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_29_P1_VerifyCurrentStudyingRadioButtonTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 12:42:20,185 INFO  [GenericFunctions] I am in onTestStart method tc_NT_01_P1_VerifyNotificationIconTest start , I am in onTestStart class NotificationTest start 
+2020-08-16 12:43:22,426 INFO  [GenericFunctions] I am in onTestFailure method tc_NT_01_P1_VerifyNotificationIconTest failed, I am in onTestFailure class NotificationTest failed 
+2020-08-16 12:43:37,840 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_01_P1_VerifyWalletTopBarTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 12:44:40,018 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_01_P1_VerifyWalletTopBarTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 12:45:26,359 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_02_P1_VerifyCoinsAddedToWalletOnRegistrationTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 12:47:00,031 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_02_P1_VerifyCoinsAddedToWalletOnRegistrationTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 12:47:07,307 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_04_P1_VerifyContentsOfTransactionTabTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 12:47:32,987 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_04_P1_VerifyContentsOfTransactionTabTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 12:47:37,950 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_07_P1_VerifyCalculationOfCostPerBuyCoinsTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 12:48:05,191 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_07_P1_VerifyCalculationOfCostPerBuyCoinsTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 12:48:27,185 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_18_P1_VerifyCoinsSliderAtBuyCoinsPopupTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 12:48:54,484 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_18_P1_VerifyCoinsSliderAtBuyCoinsPopupTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 12:49:12,060 INFO  [GenericFunctions] I am in onTestStart method tc_BM_01_P1_verifyBookmarkIconInCreatedPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 12:50:15,781 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_01_P1_verifyBookmarkIconInCreatedPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 12:50:39,713 INFO  [GenericFunctions] I am in onTestStart method tc_BM_02_P1_verifyBookmarkIconInfollowedUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 12:51:41,048 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_02_P1_verifyBookmarkIconInfollowedUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 12:51:48,254 INFO  [GenericFunctions] I am in onTestStart method tc_BM_03_P1_verifyBookmarkInfollowingUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 12:53:52,617 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_03_P1_verifyBookmarkInfollowingUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 12:53:59,827 INFO  [GenericFunctions] I am in onTestStart method tc_BM_04_P1_verifyBookmarkIconInfollowedUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 12:54:56,361 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_04_P1_verifyBookmarkIconInfollowedUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 12:55:04,266 INFO  [GenericFunctions] I am in onTestStart method tc_BM_05_P1_verifyBookmarkInfollowingUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 12:56:49,855 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_05_P1_verifyBookmarkInfollowingUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 12:57:45,938 INFO  [GenericFunctions] I am in onTestStart method tc_IN_01_P1_VerifyInviteFriendOptionTest start , I am in onTestStart class InvitePageTest start 
+2020-08-16 12:58:47,917 INFO  [GenericFunctions] I am in onTestFailure method tc_IN_01_P1_VerifyInviteFriendOptionTest failed, I am in onTestFailure class InvitePageTest failed 
+2020-08-16 12:59:35,375 INFO  [GenericFunctions] I am in onTestStart method tc_IN_03_P1_VerifyInviteFriendsThroughEmailLinkTest start , I am in onTestStart class InvitePageTest start 
+2020-08-16 13:00:55,081 INFO  [GenericFunctions] I am in onTestFailure method tc_IN_03_P1_VerifyInviteFriendsThroughEmailLinkTest failed, I am in onTestFailure class InvitePageTest failed 
+2020-08-16 13:02:10,226 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_01_P1_VerifyFunctionalityOfCreateOrganizationButtonTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:03:12,420 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_01_P1_VerifyFunctionalityOfCreateOrganizationButtonTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:03:26,525 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_02_P1_CreateAndVerifyOrganizationTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:04:14,955 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_02_P1_CreateAndVerifyOrganizationTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:04:21,185 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_03_P1_VerifyInviteMembersIconAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:05:01,348 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_03_P1_VerifyInviteMembersIconAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:05:10,004 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_04_P1_VerifyCreatingTextPostAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:05:51,495 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_04_P1_VerifyCreatingTextPostAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:06:01,580 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_05_P1_VerifyDeletingPostAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:06:46,951 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_05_P1_VerifyDeletingPostAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:06:52,216 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_06_P1_VerifyCreatingRestrictedPostTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:07:34,105 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_06_P1_VerifyCreatingRestrictedPostTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:07:40,162 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_07_P1_VerifyCreatePostFunctionalityForOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:08:21,977 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_07_P1_VerifyCreatePostFunctionalityForOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:08:27,206 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_08_P1_VerifyCommentFunctionalityForPostAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:09:08,566 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_08_P1_VerifyCommentFunctionalityForPostAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:09:14,004 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_09_P1_VerifyDeleteOrganizationTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 13:09:55,609 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_09_P1_VerifyDeleteOrganizationTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 13:10:12,982 INFO  [GenericFunctions] I am in onTestStart method TC_STG_01_P1_settingsOptionTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:11:15,190 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_01_P1_settingsOptionTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:12:01,862 INFO  [GenericFunctions] I am in onTestStart method TC_STG_02_P1_verifyContentsOfSettingsPageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:12:27,822 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_02_P1_verifyContentsOfSettingsPageTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:12:36,297 INFO  [GenericFunctions] I am in onTestStart method TC_STG_05_P1_verifyContentsOfChangePasswordPageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:13:01,203 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_05_P1_verifyContentsOfChangePasswordPageTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:13:07,354 INFO  [GenericFunctions] I am in onTestStart method TC_STG_06_P1_verifyUpdatePasswordPageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:13:32,932 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_06_P1_verifyUpdatePasswordPageTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:13:46,326 INFO  [GenericFunctions] I am in onTestStart method TC_STG_07_P1_verifyCloseAllSessionButtonTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:14:33,014 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_07_P1_verifyCloseAllSessionButtonTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:14:38,865 INFO  [GenericFunctions] I am in onTestStart method TC_STG_08_P1_verifyDeleteAccountTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:16:09,324 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_08_P1_verifyDeleteAccountTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:16:15,813 INFO  [GenericFunctions] I am in onTestStart method TC_STG_09_P1_verifyDeActivateAccountTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:16:40,424 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_09_P1_verifyDeActivateAccountTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:16:45,372 INFO  [GenericFunctions] I am in onTestStart method TC_STG_13_P1_verifySavePayPerPostBackgroundImageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:16:49,285 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_13_P1_verifySavePayPerPostBackgroundImageTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:17:34,046 INFO  [GenericFunctions] I am in onTestStart method TC_STG_14_P1_verifyContentsOfGeneralTabTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:17:58,589 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_14_P1_verifyContentsOfGeneralTabTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:18:11,172 INFO  [GenericFunctions] I am in onTestStart method TC_STG_15_P1_verifyMatureFlagToggleIsEnabledTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:18:40,913 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_15_P1_verifyMatureFlagToggleIsEnabledTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:18:49,467 INFO  [GenericFunctions] I am in onTestStart method TC_STG_16_P1_verifyMatureFlagToggleIsDisabledTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:19:14,723 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_16_P1_verifyMatureFlagToggleIsDisabledTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 13:19:19,976 INFO  [GenericFunctions] I am in onTestStart method TC_STG_17_P1_verifyPortfolioToggleFlagIsEnableTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:20:33,376 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_17_P1_verifyPortfolioToggleFlagIsEnableTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:20:39,314 INFO  [GenericFunctions] I am in onTestStart method TC_STG_18_P1_verifyPortfolioToggleFlagIsDisableTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:21:12,979 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_18_P1_verifyPortfolioToggleFlagIsDisableTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:21:19,390 INFO  [GenericFunctions] I am in onTestStart method TC_STG_19_P1_verifyContentsOfDeleteAccountAndDeactivateAccountTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:21:46,260 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_19_P1_verifyContentsOfDeleteAccountAndDeactivateAccountTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:21:55,606 INFO  [GenericFunctions] I am in onTestStart method TC_STG_20_P1_verifyContentsOfReportDropDownTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 13:22:20,029 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_20_P1_verifyContentsOfReportDropDownTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 13:22:41,130 INFO  [GenericFunctions] I am in onTestStart method tc_CM_02_and_CM_12_P1_VerifyCreatingPublicCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:23:47,254 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_02_and_CM_12_P1_VerifyCreatingPublicCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:23:56,470 INFO  [GenericFunctions] I am in onTestStart method tc_CM_04_P1_VerifyConvertingPublicCommunityToPrivateTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:24:57,214 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_04_P1_VerifyConvertingPublicCommunityToPrivateTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:25:02,176 INFO  [GenericFunctions] I am in onTestStart method tc_CM_03_and_CM_12_P1_InviteMembersInPrivateCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:25:45,068 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_03_and_CM_12_P1_InviteMembersInPrivateCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:25:50,825 INFO  [GenericFunctions] I am in onTestStart method tc_CM_05_P1_VerifyDeletingCommunityAsAdminTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:26:51,461 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_05_P1_VerifyDeletingCommunityAsAdminTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:26:57,497 INFO  [GenericFunctions] I am in onTestStart method tc_CM_06_P1_VerifyCreatingPostInCommunityAsAdminTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:27:59,707 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_06_P1_VerifyCreatingPostInCommunityAsAdminTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:28:05,328 INFO  [GenericFunctions] I am in onTestStart method tc_CM_09_P1_VerifyJoiningCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:29:06,001 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_09_P1_VerifyJoiningCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:29:12,943 INFO  [GenericFunctions] I am in onTestStart method tc_CM_07_P1_VerifyChangingCommunitySettingsTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:30:13,590 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_07_P1_VerifyChangingCommunitySettingsTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:30:18,566 INFO  [GenericFunctions] I am in onTestStart method tc_CM_08_P1_VerifyUpdatedSettingsOfCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 13:31:19,206 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_08_P1_VerifyUpdatedSettingsOfCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 13:31:38,129 INFO  [GenericFunctions] I am in onTestStart method tc_EX_01_P1_VerifyNavigationToExplorePageTest start , I am in onTestStart class ExplorePageTest start 
+2020-08-16 13:32:40,078 INFO  [GenericFunctions] I am in onTestFailure method tc_EX_01_P1_VerifyNavigationToExplorePageTest failed, I am in onTestFailure class ExplorePageTest failed 
+2020-08-16 13:32:47,414 INFO  [GenericFunctions] I am in onTestStart method tc_EX_02_P1_VerifySuggestedHashtagsInSubHeaderOfExplorePageTest start , I am in onTestStart class ExplorePageTest start 
+2020-08-16 13:33:29,039 INFO  [GenericFunctions] I am in onTestFailure method tc_EX_02_P1_VerifySuggestedHashtagsInSubHeaderOfExplorePageTest failed, I am in onTestFailure class ExplorePageTest failed 
+2020-08-16 13:33:55,889 INFO  [GenericFunctions] I am in onTestStart method tc_BC_01_P1_verifyBoostConsoleIconInProfileDropdownTest start , I am in onTestStart class BoostConsolePageTest start 
+2020-08-16 13:34:57,790 INFO  [GenericFunctions] I am in onTestFailure method tc_BC_01_P1_verifyBoostConsoleIconInProfileDropdownTest failed, I am in onTestFailure class BoostConsolePageTest failed 
+2020-08-16 13:36:18,282 INFO  [GenericFunctions] I am in onTestStart method tc_EV_01_P1_VerifyCreateEventOptionByClickingOnGroupLinkTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 13:37:20,162 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_01_P1_VerifyCreateEventOptionByClickingOnGroupLinkTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 13:37:30,940 INFO  [GenericFunctions] I am in onTestStart method tc_EV_02_P1_VerifyNavigationToCreateEventPageTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 13:38:11,032 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_02_P1_VerifyNavigationToCreateEventPageTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 13:38:17,370 INFO  [GenericFunctions] I am in onTestStart method tc_EV_03_P1_VerifyCreateEventTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 13:39:02,981 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_03_P1_VerifyCreateEventTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 13:39:08,830 INFO  [GenericFunctions] I am in onTestStart method tc_EV_04_P1_VerifyCreatedEventInHomePageTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 13:40:10,859 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_04_P1_VerifyCreatedEventInHomePageTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 13:40:15,957 INFO  [GenericFunctions] I am in onTestStart method tc_EV_05_P1_VerifyDeletingEventTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 13:40:57,393 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_05_P1_VerifyDeletingEventTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 13:41:07,947 INFO  [GenericFunctions] I am in onFinish method Chrome-Execution 
+2020-08-16 13:41:07,960 INFO  [GenericFunctions] I am in onStart method Firefox-Execution 
+2020-08-16 13:41:50,887 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 13:41:55,882 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 13:42:03,319 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 13:42:04,741 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 13:42:09,382 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 13:42:11,052 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 13:42:15,654 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 13:42:55,703 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_05_P1_SelectCountryCodeTest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-16 13:43:00,425 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-16 13:43:09,531 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-16 13:43:35,069 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 13:44:15,090 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_01_P1_ContentsOfLoginPageTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 13:44:21,567 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 13:45:23,756 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 13:45:28,480 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 13:46:30,344 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 13:46:34,687 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-16 13:47:36,678 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_03_LoginViaValidEmailAndPassword failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 13:47:40,765 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-16 13:48:43,186 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-16 13:49:21,669 INFO  [GenericFunctions] I am in onTestStart method TC_HM_01_P1_ContentsOfHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:50:27,260 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_01_P1_ContentsOfHomePageTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 13:51:23,142 INFO  [GenericFunctions] I am in onTestStart method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:51:47,039 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_02_P1_ContentsOfProfileCardInHomePageTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 13:52:02,974 INFO  [GenericFunctions] I am in onTestStart method TC_HM_03_P1_VerifyFollowedUserPostTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:52:56,554 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_03_P1_VerifyFollowedUserPostTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 13:53:04,771 INFO  [GenericFunctions] I am in onTestStart method TC_HM_04_P1_VerifyPublishedBlogTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:54:37,330 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_04_P1_VerifyPublishedBlogTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 13:54:47,572 INFO  [GenericFunctions] I am in onTestStart method TC_HM_05_P1_ContentsOfSuggestedListTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:55:11,113 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_05_P1_ContentsOfSuggestedListTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 13:55:31,963 INFO  [GenericFunctions] I am in onTestStart method TC_HM_06_P1_VerifyFollowUserButtonTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:55:59,204 INFO  [GenericFunctions] I am in onTestSuccess method TC_HM_06_P1_VerifyFollowUserButtonTest succeed , I am in onTestSuccess class HomePageTest succeed 
+2020-08-16 13:56:22,565 INFO  [GenericFunctions] I am in onTestStart method TC_HM_07_P1_VerifyCreatePostAreaTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:56:55,127 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_07_P1_VerifyCreatePostAreaTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 13:57:03,567 INFO  [GenericFunctions] I am in onTestStart method TC_HM_08_P1_VerifyOpportunityWidgetTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:57:33,974 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_08_P1_VerifyOpportunityWidgetTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 13:57:58,263 INFO  [GenericFunctions] I am in onTestStart method TC_HM_09_P1_VerifyMessangerPopUpTest start , I am in onTestStart class HomePageTest start 
+2020-08-16 13:59:00,246 INFO  [GenericFunctions] I am in onTestFailure method TC_HM_09_P1_VerifyMessangerPopUpTest failed, I am in onTestFailure class HomePageTest failed 
+2020-08-16 13:59:30,483 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_01_P1_verifyContentsOfPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:00:32,366 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_01_P1_verifyContentsOfPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:00:55,805 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_02_P1_verifyAudioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:01:29,835 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_02_P1_verifyAudioPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:01:54,317 INFO  [GenericFunctions] I am in onTestStart method tc_PWH_03_P1_verifyVideoPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:02:42,695 INFO  [GenericFunctions] I am in onTestFailure method tc_PWH_03_P1_verifyVideoPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:02:52,383 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_04_P1_verifyHashTagDropDownTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:03:17,419 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_04_P1_verifyHashTagDropDownTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 14:03:28,814 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_05_P1_verifyRestrictedContentToggleButtonTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:03:57,025 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_05_P1_verifyRestrictedContentToggleButtonTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:04:10,364 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_06_P1_verifyRestrictedContentPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:04:39,068 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_06_P1_verifyRestrictedContentPost failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:05:04,467 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_07_P1_verifyPayPerPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:06:11,066 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_07_P1_verifyPayPerPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:06:21,474 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_08_P1_verifyUnlockPayPerPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:07:54,649 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_08_P1_verifyUnlockPayPerPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:08:02,307 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_09_P1_verifyEditActonPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:08:38,635 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_09_P1_verifyEditActonPostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 14:08:46,818 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_10_P1_verifyDeletePostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:09:21,552 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_10_P1_verifyDeletePostTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 14:09:29,425 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_11_P1_verifySharePostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:09:59,008 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_11_P1_verifySharePostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:10:08,383 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_12_P1_VerifyCreateMyJourneyHashTagPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:10:37,856 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_12_P1_VerifyCreateMyJourneyHashTagPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:10:46,335 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_13_P1_VerifyMyJourneyPostEditAndDeleteActionTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:11:19,990 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_13_P1_VerifyMyJourneyPostEditAndDeleteActionTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 14:11:27,706 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_14_P1_verifyCreateShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:11:56,157 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_14_P1_verifyCreateShowtimezPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:12:03,774 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_15_P1_VerifyEditShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:12:29,878 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_15_P1_VerifyEditShowtimezPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:12:37,636 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_16_P1_VerifyReachOutShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:13:23,258 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_16_P1_VerifyReachOutShowtimezPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:13:30,697 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_17_P1_VerifyDeleteShowtimezPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:13:59,076 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_17_P1_VerifyDeleteShowtimezPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:14:06,238 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_18_P1_VerifyCreateBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:14:34,610 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_18_P1_VerifyCreateBlueStoreHashTagPost failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:14:43,976 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_19_P1_VerifyEditBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:15:12,125 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_19_P1_VerifyEditBlueStoreHashTagPost failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:15:20,154 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_20_P1_VerifyShareBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:15:47,535 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_20_P1_VerifyShareBlueStoreHashTagPost failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:15:55,267 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_2_P1_VerifyDeleteBlueStoreHashTagPost start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:16:24,495 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_2_P1_VerifyDeleteBlueStoreHashTagPost failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:16:32,115 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_22_P1_VerifyCreateOpportunityHashTagPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:17:01,839 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_22_P1_VerifyCreateOpportunityHashTagPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:17:12,863 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_23_P1_VerifyContentsOfCreateOpportunityHashTagPopUpTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:17:38,232 INFO  [GenericFunctions] I am in onTestSuccess method TC_PWH_23_P1_VerifyContentsOfCreateOpportunityHashTagPopUpTest succeed , I am in onTestSuccess class PostWIthHashTagTest succeed 
+2020-08-16 14:17:46,567 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_24_P1_VerifyCreatePortfolioHashTagPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:18:15,006 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_24_P1_VerifyCreatePortfolioHashTagPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:18:22,443 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_25_P1_VerifyCreatePortfolioHashTagRestrictedPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:18:51,721 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_25_P1_VerifyCreatePortfolioHashTagRestrictedPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:18:59,385 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_26_P1_VerifyActionsOfPortfolioPostInPortfolioInnerPageTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:19:27,812 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_26_P1_VerifyActionsOfPortfolioPostInPortfolioInnerPageTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:19:35,366 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_27_P1_VerifyEditPortfolioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:20:03,764 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_27_P1_VerifyEditPortfolioPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:20:11,695 INFO  [GenericFunctions] I am in onTestStart method TC_PWH_28_P1_VerifyDeletePortfolioPostTest start , I am in onTestStart class PostWIthHashTagTest start 
+2020-08-16 14:20:40,066 INFO  [GenericFunctions] I am in onTestFailure method TC_PWH_28_P1_VerifyDeletePortfolioPostTest failed, I am in onTestFailure class PostWIthHashTagTest failed 
+2020-08-16 14:21:05,690 INFO  [GenericFunctions] I am in onTestStart method tc_PC_12_P1_VerifyContentsOfPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:22:09,039 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_12_P1_VerifyContentsOfPostCardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 14:22:55,647 INFO  [GenericFunctions] I am in onTestStart method tc_PC_02_P1_VerifyBuyCoinsButtonInContributionPopupTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:23:40,467 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_02_P1_VerifyBuyCoinsButtonInContributionPopupTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 14:23:47,774 INFO  [GenericFunctions] I am in onTestStart method tc_PC_03_P1_VerifyDeletePostCardWithYesButtonTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:24:26,705 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_03_P1_VerifyDeletePostCardWithYesButtonTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 14:24:43,478 INFO  [GenericFunctions] I am in onTestStart method tc_PC_04_P1_VerifyBoostButtonInPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:25:14,334 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_04_P1_VerifyBoostButtonInPostCardTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 14:25:24,053 INFO  [GenericFunctions] I am in onTestStart method tc_PC_08_P2_VerifyShareButtonInPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:25:55,150 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_08_P2_VerifyShareButtonInPostCardTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 14:26:04,482 INFO  [GenericFunctions] I am in onTestStart method tc_PC_09_P2_VerifyLikeButtonInPostcardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:26:36,900 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_09_P2_VerifyLikeButtonInPostcardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 14:26:45,919 INFO  [GenericFunctions] I am in onTestStart method tc_PC_10_P2_VerifyCommentOnPostTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:27:23,767 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_10_P2_VerifyCommentOnPostTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 14:27:31,871 INFO  [GenericFunctions] I am in onTestStart method tc_PC_11_P1_VerifyContentsOfFollowedUserPostcardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:30:28,488 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_11_P1_VerifyContentsOfFollowedUserPostcardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 14:30:35,943 INFO  [GenericFunctions] I am in onTestStart method tc_PC_14_P1_VerifyRepostPostTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:31:18,325 INFO  [GenericFunctions] I am in onTestSuccess method tc_PC_14_P1_VerifyRepostPostTest succeed , I am in onTestSuccess class PostCardTest succeed 
+2020-08-16 14:31:25,491 INFO  [GenericFunctions] I am in onTestStart method tc_PC_13_P1_VerifyBoostPostCardTest start , I am in onTestStart class PostCardTest start 
+2020-08-16 14:32:58,634 INFO  [GenericFunctions] I am in onTestFailure method tc_PC_13_P1_VerifyBoostPostCardTest failed, I am in onTestFailure class PostCardTest failed 
+2020-08-16 14:33:24,163 INFO  [GenericFunctions] I am in onTestStart method tc_PP_01_P1_VerifyViewProfileLinkTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:34:26,155 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_01_P1_VerifyViewProfileLinkTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:34:32,179 INFO  [GenericFunctions] I am in onTestStart method tc_PP_02_P1_VerifyViewProfileLinkFunctionalityTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:35:12,290 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_02_P1_VerifyViewProfileLinkFunctionalityTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:35:18,175 INFO  [GenericFunctions] I am in onTestStart method tc_PP_03_P1_VerifyEditProfilePictureTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:36:00,032 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_03_P1_VerifyEditProfilePictureTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:36:05,722 INFO  [GenericFunctions] I am in onTestStart method tc_PP_04_P1_VerifyNavigationToPortfolioPageTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:36:45,833 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_04_P1_VerifyNavigationToPortfolioPageTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:36:51,366 INFO  [GenericFunctions] I am in onTestStart method tc_PP_05_P1_VerifyUserDetailsUnderAboutSectionTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:37:33,235 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_05_P1_VerifyUserDetailsUnderAboutSectionTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:37:38,922 INFO  [GenericFunctions] I am in onTestStart method tc_PP_06_P1_VerifyCreatingPostFromProfilePageTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:38:20,328 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_06_P1_VerifyCreatingPostFromProfilePageTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:38:26,268 INFO  [GenericFunctions] I am in onTestStart method tc_PP_07_P1_VerifyCreatingSpecialHashtagPostTest start , I am in onTestStart class ProfilePageTest start 
+2020-08-16 14:39:09,570 INFO  [GenericFunctions] I am in onTestFailure method tc_PP_07_P1_VerifyCreatingSpecialHashtagPostTest failed, I am in onTestFailure class ProfilePageTest failed 
+2020-08-16 14:39:31,312 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_01_P1_VerifyUploadProfileImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:40:39,764 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_01_P1_VerifyUploadProfileImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:41:25,744 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_02_P1_VerifyUploadCoverImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:41:50,176 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_02_P1_VerifyUploadCoverImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:41:57,376 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_03_P1_VerifyEditCoverImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:42:20,668 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_03_P1_VerifyEditCoverImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:42:27,781 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_04_P1_VerifyContentsCoverIconsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:42:51,981 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_04_P1_VerifyContentsCoverIconsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:42:59,615 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_05_P1_VerifyDeleteCoverImageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:43:22,264 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_05_P1_VerifyDeleteCoverImageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:43:29,300 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_06_P1_VerifyContentsOfGeneralInfoTabTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:43:52,166 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_06_P1_VerifyContentsOfGeneralInfoTabTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:43:59,518 INFO  [GenericFunctions] I am in onTestStart method TC_PCM_07_P1_VerifyEditGeneralInfoSectionTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:44:23,542 INFO  [GenericFunctions] I am in onTestFailure method TC_PCM_07_P1_VerifyEditGeneralInfoSectionTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:44:31,121 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_08_P1_VerifyContentsOfAboutTabTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:44:53,734 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_08_P1_VerifyContentsOfAboutTabTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:45:01,775 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_09_P1_VerifyEditAboutSectionTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:45:25,318 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_09_P1_VerifyEditAboutSectionTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:45:33,025 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_10_P1_VerifyUserLocationVisibleToEveryoneTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:45:59,010 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_10_P1_VerifyUserLocationVisibleToEveryoneTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:46:06,135 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_11_P1_VerifyUserLocationVisibleToPeopleWhoFollowsYouTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:46:29,585 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_11_P1_VerifyUserLocationVisibleToPeopleWhoFollowsYouTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:46:37,464 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_12_P1_VerifyUserLocationVisibleToPeopleYouFollowTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:47:01,315 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_12_P1_VerifyUserLocationVisibleToPeopleYouFollowTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:47:08,902 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_13_P1_VerifyUserLocationVisibleToOnlyMeTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:47:32,396 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_13_P1_VerifyUserLocationVisibleToOnlyMeTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:47:39,902 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_14_P1_VerifyAddWorkExperienceTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:48:03,656 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_14_P1_VerifyAddWorkExperienceTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:48:11,005 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_15_P1_VerifyEditWorkExperienceTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:48:34,976 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_15_P1_VerifyEditWorkExperienceTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:48:42,555 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_16_P1_VerifyDefaultProfileCompletionPercentageAddedOnRegistrationTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:50:12,500 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_16_P1_VerifyDefaultProfileCompletionPercentageAddedOnRegistrationTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:50:21,302 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_17_P1_VerifyPercentageIncrementedOnAddingSkillsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:50:45,453 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_17_P1_VerifyPercentageIncrementedOnAddingSkillsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:50:53,746 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_18_P1_VerifyPercentageIncrementedOnAddingDescriptionTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:51:17,214 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_18_P1_VerifyPercentageIncrementedOnAddingDescriptionTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:51:25,351 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_19_P1_VerifyPercentageIncrementedOnAddingLanguageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:51:48,925 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_19_P1_VerifyPercentageIncrementedOnAddingLanguageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:51:56,726 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_20_P1_VerifyPercentageIncrementedOnAddingContactLocationTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:52:20,136 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_20_P1_VerifyPercentageIncrementedOnAddingContactLocationTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:52:27,911 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_21_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingWorkExperienceTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:52:51,340 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_21_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingWorkExperienceTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:52:59,018 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_22_P1_VerifyContentsOfAddAwardSection start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:53:21,730 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_22_P1_VerifyContentsOfAddAwardSection failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:53:29,370 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_23_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingAwardDetailsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:53:53,466 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_23_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingAwardDetailsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:54:01,291 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_24_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingEducationDetailsTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:54:25,390 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_24_P1_VerifyProfileCompletionPercentageOnAddingAndDeletingEducationDetailsTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:54:32,810 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_25_P1_VerifyAddAwardTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:54:56,214 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_25_P1_VerifyAddAwardTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:55:03,672 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_26_P1_VerifyContentsOfContactTabTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:55:26,367 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_26_P1_VerifyContentsOfContactTabTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:55:33,984 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_27_P1_VerifyContentsOfAddWorkExperiencePageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:55:56,640 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_27_P1_VerifyContentsOfAddWorkExperiencePageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:56:04,006 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_28_P1_VerifyContentsOfAddEducationPageTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:56:26,691 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_28_P1_VerifyContentsOfAddEducationPageTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:56:34,027 INFO  [GenericFunctions] I am in onTestStart method tc_PCM_29_P1_VerifyCurrentStudyingRadioButtonTest start , I am in onTestStart class ProfileCompletionPageTest start 
+2020-08-16 14:56:58,000 INFO  [GenericFunctions] I am in onTestFailure method tc_PCM_29_P1_VerifyCurrentStudyingRadioButtonTest failed, I am in onTestFailure class ProfileCompletionPageTest failed 
+2020-08-16 14:57:21,696 INFO  [GenericFunctions] I am in onTestStart method tc_NT_01_P1_VerifyNotificationIconTest start , I am in onTestStart class NotificationTest start 
+2020-08-16 14:58:23,595 INFO  [GenericFunctions] I am in onTestFailure method tc_NT_01_P1_VerifyNotificationIconTest failed, I am in onTestFailure class NotificationTest failed 
+2020-08-16 14:58:40,250 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_01_P1_VerifyWalletTopBarTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 14:59:42,216 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_01_P1_VerifyWalletTopBarTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 15:00:28,289 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_02_P1_VerifyCoinsAddedToWalletOnRegistrationTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 15:02:00,759 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_02_P1_VerifyCoinsAddedToWalletOnRegistrationTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 15:02:08,279 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_04_P1_VerifyContentsOfTransactionTabTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 15:02:32,040 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_04_P1_VerifyContentsOfTransactionTabTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 15:02:39,591 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_07_P1_VerifyCalculationOfCostPerBuyCoinsTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 15:03:04,879 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_07_P1_VerifyCalculationOfCostPerBuyCoinsTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 15:03:12,436 INFO  [GenericFunctions] I am in onTestStart method tc_WLT_18_P1_VerifyCoinsSliderAtBuyCoinsPopupTest start , I am in onTestStart class WalletPageTest start 
+2020-08-16 15:03:37,552 INFO  [GenericFunctions] I am in onTestFailure method tc_WLT_18_P1_VerifyCoinsSliderAtBuyCoinsPopupTest failed, I am in onTestFailure class WalletPageTest failed 
+2020-08-16 15:04:02,554 INFO  [GenericFunctions] I am in onTestStart method tc_BM_01_P1_verifyBookmarkIconInCreatedPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 15:05:06,078 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_01_P1_verifyBookmarkIconInCreatedPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 15:05:52,672 INFO  [GenericFunctions] I am in onTestStart method tc_BM_02_P1_verifyBookmarkIconInfollowedUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 15:06:46,125 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_02_P1_verifyBookmarkIconInfollowedUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 15:06:54,643 INFO  [GenericFunctions] I am in onTestStart method tc_BM_03_P1_verifyBookmarkInfollowingUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 15:08:57,903 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_03_P1_verifyBookmarkInfollowingUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 15:09:05,961 INFO  [GenericFunctions] I am in onTestStart method tc_BM_04_P1_verifyBookmarkIconInfollowedUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 15:10:00,589 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_04_P1_verifyBookmarkIconInfollowedUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 15:10:08,239 INFO  [GenericFunctions] I am in onTestStart method tc_BM_05_P1_verifyBookmarkInfollowingUserPostTest start , I am in onTestStart class BookmarkPageTest start 
+2020-08-16 15:12:12,209 INFO  [GenericFunctions] I am in onTestFailure method tc_BM_05_P1_verifyBookmarkInfollowingUserPostTest failed, I am in onTestFailure class BookmarkPageTest failed 
+2020-08-16 15:12:57,522 INFO  [GenericFunctions] I am in onTestStart method tc_IN_01_P1_VerifyInviteFriendOptionTest start , I am in onTestStart class InvitePageTest start 
+2020-08-16 15:13:59,605 INFO  [GenericFunctions] I am in onTestFailure method tc_IN_01_P1_VerifyInviteFriendOptionTest failed, I am in onTestFailure class InvitePageTest failed 
+2020-08-16 15:14:46,124 INFO  [GenericFunctions] I am in onTestStart method tc_IN_03_P1_VerifyInviteFriendsThroughEmailLinkTest start , I am in onTestStart class InvitePageTest start 
+2020-08-16 15:16:02,617 INFO  [GenericFunctions] I am in onTestFailure method tc_IN_03_P1_VerifyInviteFriendsThroughEmailLinkTest failed, I am in onTestFailure class InvitePageTest failed 
+2020-08-16 15:16:27,514 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_01_P1_VerifyFunctionalityOfCreateOrganizationButtonTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:17:29,388 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_01_P1_VerifyFunctionalityOfCreateOrganizationButtonTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:17:35,926 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_02_P1_CreateAndVerifyOrganizationTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:18:19,276 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_02_P1_CreateAndVerifyOrganizationTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:18:25,199 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_03_P1_VerifyInviteMembersIconAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:19:05,313 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_03_P1_VerifyInviteMembersIconAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:19:11,688 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_04_P1_VerifyCreatingTextPostAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:19:53,257 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_04_P1_VerifyCreatingTextPostAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:19:58,972 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_05_P1_VerifyDeletingPostAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:20:40,376 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_05_P1_VerifyDeletingPostAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:20:46,705 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_06_P1_VerifyCreatingRestrictedPostTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:21:28,054 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_06_P1_VerifyCreatingRestrictedPostTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:21:34,172 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_07_P1_VerifyCreatePostFunctionalityForOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:22:15,449 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_07_P1_VerifyCreatePostFunctionalityForOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:22:21,438 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_08_P1_VerifyCommentFunctionalityForPostAsOwnerTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:23:02,754 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_08_P1_VerifyCommentFunctionalityForPostAsOwnerTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:23:08,737 INFO  [GenericFunctions] I am in onTestStart method tc_ORG_09_P1_VerifyDeleteOrganizationTest start , I am in onTestStart class OrganizationPageTest start 
+2020-08-16 15:23:50,054 INFO  [GenericFunctions] I am in onTestFailure method tc_ORG_09_P1_VerifyDeleteOrganizationTest failed, I am in onTestFailure class OrganizationPageTest failed 
+2020-08-16 15:24:12,004 INFO  [GenericFunctions] I am in onTestStart method TC_STG_01_P1_settingsOptionTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:25:13,325 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_01_P1_settingsOptionTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:25:59,645 INFO  [GenericFunctions] I am in onTestStart method TC_STG_02_P1_verifyContentsOfSettingsPageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:26:24,482 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_02_P1_verifyContentsOfSettingsPageTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:26:33,835 INFO  [GenericFunctions] I am in onTestStart method TC_STG_05_P1_verifyContentsOfChangePasswordPageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:26:58,992 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_05_P1_verifyContentsOfChangePasswordPageTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:27:06,280 INFO  [GenericFunctions] I am in onTestStart method TC_STG_06_P1_verifyUpdatePasswordPageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:27:28,952 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_06_P1_verifyUpdatePasswordPageTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:27:36,449 INFO  [GenericFunctions] I am in onTestStart method TC_STG_07_P1_verifyCloseAllSessionButtonTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:28:23,319 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_07_P1_verifyCloseAllSessionButtonTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:28:30,336 INFO  [GenericFunctions] I am in onTestStart method TC_STG_08_P1_verifyDeleteAccountTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:29:59,412 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_08_P1_verifyDeleteAccountTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:30:11,847 INFO  [GenericFunctions] I am in onTestStart method TC_STG_09_P1_verifyDeActivateAccountTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:30:34,754 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_09_P1_verifyDeActivateAccountTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:30:42,282 INFO  [GenericFunctions] I am in onTestStart method TC_STG_13_P1_verifySavePayPerPostBackgroundImageTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:30:45,708 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_13_P1_verifySavePayPerPostBackgroundImageTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:31:31,267 INFO  [GenericFunctions] I am in onTestStart method TC_STG_14_P1_verifyContentsOfGeneralTabTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:31:56,178 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_14_P1_verifyContentsOfGeneralTabTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:32:03,466 INFO  [GenericFunctions] I am in onTestStart method TC_STG_15_P1_verifyMatureFlagToggleIsEnabledTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:32:29,366 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_15_P1_verifyMatureFlagToggleIsEnabledTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:32:36,668 INFO  [GenericFunctions] I am in onTestStart method TC_STG_16_P1_verifyMatureFlagToggleIsDisabledTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:33:01,001 INFO  [GenericFunctions] I am in onTestFailure method TC_STG_16_P1_verifyMatureFlagToggleIsDisabledTest failed, I am in onTestFailure class SettingsPageTest failed 
+2020-08-16 15:33:08,129 INFO  [GenericFunctions] I am in onTestStart method TC_STG_17_P1_verifyPortfolioToggleFlagIsEnableTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:34:22,029 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_17_P1_verifyPortfolioToggleFlagIsEnableTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:34:28,690 INFO  [GenericFunctions] I am in onTestStart method TC_STG_18_P1_verifyPortfolioToggleFlagIsDisableTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:35:22,510 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_18_P1_verifyPortfolioToggleFlagIsDisableTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:35:29,139 INFO  [GenericFunctions] I am in onTestStart method TC_STG_19_P1_verifyContentsOfDeleteAccountAndDeactivateAccountTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:35:55,289 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_19_P1_verifyContentsOfDeleteAccountAndDeactivateAccountTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:36:03,084 INFO  [GenericFunctions] I am in onTestStart method TC_STG_20_P1_verifyContentsOfReportDropDownTest start , I am in onTestStart class SettingsPageTest start 
+2020-08-16 15:36:27,544 INFO  [GenericFunctions] I am in onTestSuccess method TC_STG_20_P1_verifyContentsOfReportDropDownTest succeed , I am in onTestSuccess class SettingsPageTest succeed 
+2020-08-16 15:36:52,651 INFO  [GenericFunctions] I am in onTestStart method tc_CM_02_and_CM_12_P1_VerifyCreatingPublicCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:37:57,373 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_02_and_CM_12_P1_VerifyCreatingPublicCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:38:03,671 INFO  [GenericFunctions] I am in onTestStart method tc_CM_04_P1_VerifyConvertingPublicCommunityToPrivateTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:39:04,305 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_04_P1_VerifyConvertingPublicCommunityToPrivateTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:39:09,994 INFO  [GenericFunctions] I am in onTestStart method tc_CM_03_and_CM_12_P1_InviteMembersInPrivateCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:39:52,970 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_03_and_CM_12_P1_InviteMembersInPrivateCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:40:00,428 INFO  [GenericFunctions] I am in onTestStart method tc_CM_05_P1_VerifyDeletingCommunityAsAdminTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:41:01,062 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_05_P1_VerifyDeletingCommunityAsAdminTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:41:08,581 INFO  [GenericFunctions] I am in onTestStart method tc_CM_06_P1_VerifyCreatingPostInCommunityAsAdminTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:42:10,615 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_06_P1_VerifyCreatingPostInCommunityAsAdminTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:42:17,433 INFO  [GenericFunctions] I am in onTestStart method tc_CM_09_P1_VerifyJoiningCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:43:18,064 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_09_P1_VerifyJoiningCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:43:24,291 INFO  [GenericFunctions] I am in onTestStart method tc_CM_07_P1_VerifyChangingCommunitySettingsTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:44:24,917 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_07_P1_VerifyChangingCommunitySettingsTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:44:31,063 INFO  [GenericFunctions] I am in onTestStart method tc_CM_08_P1_VerifyUpdatedSettingsOfCommunityTest start , I am in onTestStart class CommunityPageTest start 
+2020-08-16 15:45:31,698 INFO  [GenericFunctions] I am in onTestFailure method tc_CM_08_P1_VerifyUpdatedSettingsOfCommunityTest failed, I am in onTestFailure class CommunityPageTest failed 
+2020-08-16 15:45:57,593 INFO  [GenericFunctions] I am in onTestStart method tc_EX_01_P1_VerifyNavigationToExplorePageTest start , I am in onTestStart class ExplorePageTest start 
+2020-08-16 15:46:59,525 INFO  [GenericFunctions] I am in onTestFailure method tc_EX_01_P1_VerifyNavigationToExplorePageTest failed, I am in onTestFailure class ExplorePageTest failed 
+2020-08-16 15:47:05,891 INFO  [GenericFunctions] I am in onTestStart method tc_EX_02_P1_VerifySuggestedHashtagsInSubHeaderOfExplorePageTest start , I am in onTestStart class ExplorePageTest start 
+2020-08-16 15:47:47,374 INFO  [GenericFunctions] I am in onTestFailure method tc_EX_02_P1_VerifySuggestedHashtagsInSubHeaderOfExplorePageTest failed, I am in onTestFailure class ExplorePageTest failed 
+2020-08-16 15:48:10,566 INFO  [GenericFunctions] I am in onTestStart method tc_BC_01_P1_verifyBoostConsoleIconInProfileDropdownTest start , I am in onTestStart class BoostConsolePageTest start 
+2020-08-16 15:49:12,513 INFO  [GenericFunctions] I am in onTestFailure method tc_BC_01_P1_verifyBoostConsoleIconInProfileDropdownTest failed, I am in onTestFailure class BoostConsolePageTest failed 
+2020-08-16 15:51:20,362 INFO  [GenericFunctions] I am in onTestStart method tc_EV_01_P1_VerifyCreateEventOptionByClickingOnGroupLinkTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 15:52:22,287 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_01_P1_VerifyCreateEventOptionByClickingOnGroupLinkTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 15:52:31,572 INFO  [GenericFunctions] I am in onTestStart method tc_EV_02_P1_VerifyNavigationToCreateEventPageTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 15:53:11,692 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_02_P1_VerifyNavigationToCreateEventPageTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 15:53:17,228 INFO  [GenericFunctions] I am in onTestStart method tc_EV_03_P1_VerifyCreateEventTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 15:54:00,680 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_03_P1_VerifyCreateEventTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 15:54:06,087 INFO  [GenericFunctions] I am in onTestStart method tc_EV_04_P1_VerifyCreatedEventInHomePageTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 15:55:07,950 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_04_P1_VerifyCreatedEventInHomePageTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 15:55:13,718 INFO  [GenericFunctions] I am in onTestStart method tc_EV_05_P1_VerifyDeletingEventTest start , I am in onTestStart class EventPageTest start 
+2020-08-16 15:55:55,143 INFO  [GenericFunctions] I am in onTestFailure method tc_EV_05_P1_VerifyDeletingEventTest failed, I am in onTestFailure class EventPageTest failed 
+2020-08-16 15:56:05,422 INFO  [GenericFunctions] I am in onFinish method Firefox-Execution 
+2020-08-17 18:22:47,069 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-17 18:23:02,238 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:23:09,560 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:23:17,797 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:23:19,663 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:23:25,392 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:23:27,124 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-17 18:23:32,023 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:26:24,909 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_05_P1_SelectCountryCodeTest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:26:28,351 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:26:31,975 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:26:45,770 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:26:46,105 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_01_P1_ContentsOfLoginPageTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-17 18:26:56,662 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:28:24,562 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-17 18:28:29,102 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:29:31,118 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-17 18:29:35,770 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:30:37,552 INFO  [GenericFunctions] I am in onTestFailure method tc_LG_03_LoginViaValidEmailAndPassword failed, I am in onTestFailure class LoginPageTest failed 
+2020-08-17 18:30:42,226 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:43:52,599 INFO  [GenericFunctions] I am in onStart method Chrome-Execution 
+2020-08-17 18:44:06,244 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:44:13,719 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:44:24,315 INFO  [GenericFunctions] I am in onTestStart method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:44:27,218 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_03_P1_RegistrationWithInvalidPasswordAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:44:33,068 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:44:35,213 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-17 18:44:42,773 INFO  [GenericFunctions] I am in onTestStart method tc_RG_05_P1_SelectCountryCodeTest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:47:28,332 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_05_P1_SelectCountryCodeTest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:47:38,015 INFO  [GenericFunctions] I am in onTestStart method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-17 18:47:40,378 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_04_P1_RegistrationOnDOBWithAgeLimitAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-17 18:47:59,777 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:48:00,154 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_01_P1_ContentsOfLoginPageTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-17 18:48:10,779 INFO  [GenericFunctions] I am in onTestStart method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:48:44,067 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_02_P1_LoginViaValidUsernameAndPasswordTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-17 18:48:56,004 INFO  [GenericFunctions] I am in onTestStart method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:49:19,375 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_04_LoginWithValidMobileNumberAndPasswordTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-17 18:49:25,127 INFO  [GenericFunctions] I am in onTestStart method tc_LG_03_LoginViaValidEmailAndPassword start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:49:49,075 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_03_LoginViaValidEmailAndPassword succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-17 18:49:54,618 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
+2020-08-17 18:49:57,307 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-17 18:50:13,409 INFO  [GenericFunctions] I am in onTestStart method TC_HM_01_P1_ContentsOfHomePageTest start , I am in onTestStart class HomePageTest start 
