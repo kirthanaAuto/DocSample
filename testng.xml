@@ -11,7 +11,7 @@
         <listener class-name="com.aeione.ops.generic.TestListener"/>
     </listeners>
 
-    <test enabled="false" verbose="100" preserve-order="true" name="Chrome-Execution">
+    <test enabled="true" verbose="100" preserve-order="true" name="Chrome-Execution">
 
         <parameter name="testBrowserName" value="Chrome"/>
         <parameter name="reportName" value="Chrome-ExtentReport"/>
