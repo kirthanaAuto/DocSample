@@ -3,7 +3,8 @@ package com.aeione.ops.generic;
 import com.google.api.client.auth.oauth2.Credential;
 import com.google.api.client.extensions.java6.auth.oauth2.AuthorizationCodeInstalledApp;
 import com.google.api.client.extensions.jetty.auth.oauth2.LocalServerReceiver;
-import com.google.api.client.googleapis.auth.oauth2.*;
+import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;
+import com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets;
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
 import com.google.api.client.http.HttpTransport;
 import com.google.api.client.json.JsonFactory;
@@ -575,33 +576,23 @@ public class GoogleSheetAPI {
 
         List<List<Object>> updatedRowValues=new ArrayList<>();
 
-
         //Get Row Values
         List<List<Object>> rowvalues = getSpreadSheetRecords(TEST_DATA_GOOGLESHEET, range);
         System.out.println(rowvalues);
 
         //get number of columns
         int header=rowvalues.get(0).size();
-
-
         outerloop :
         for (int j = 0; j <= rowvalues.size()-1; j++)
         {
            int rowsize=rowvalues.get(j).size();
-
-           System.out.println(rowsize);
-
+            // System.out.println(rowsize);
            int a=header-rowsize;
-
            for(int i=0; i<=a-1;i++)
             {
                  rowvalues.get(j).add("");
             }
-
-
         }
-
-
         return rowvalues;
     }
 

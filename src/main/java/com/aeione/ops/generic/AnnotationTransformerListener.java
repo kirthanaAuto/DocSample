@@ -53,17 +53,6 @@ public class AnnotationTransformerListener implements IAnnotationTransformer {
         String currentTestCaseName = testMethod.getName();
         try {
 
-//            Map<String, String> values = sheetAPI().getSpreadSheetRowValueByColumnValue(TEST_EXECUTION_SHEET, tab1Range, currentTestCaseName);
-//
-//            String testModule = values.get("Module").trim();
-//            String testCaseName = values.get("TestCaseName").trim();
-//            String priority = values.get("Priority").trim();
-//            String enabled = values.get("Enabled").trim();
-//
-//            System.out.println(testModule+ "," +testCaseName + "," + priority + "," + enabled);
-
-
-
             for(int i=0 ; i<=Tab1Rows.size()-1; i++)
             {
                 if(Tab1Rows.get(i).contains(currentTestCaseName))
@@ -86,15 +75,6 @@ public class AnnotationTransformerListener implements IAnnotationTransformer {
             String enabled = mapping.get("Enabled").trim();
 
             System.out.println(testModule+ "," +testCaseName + "," + priority + "," + enabled);
-
-
-//            Map<String, String> overViewValues = sheetAPI().getSpreadSheetRowValueByColumnValue(TEST_EXECUTION_SHEET, overViewTabRange,testModule);
-//
-//            String module = overViewValues.get("Module").trim();
-//            String executionMode = overViewValues.get("Execution Mode").trim();
-//            String suiteType= overViewValues.get("Suite Type").trim();
-//
-//            System.out.println(module + "," + executionMode + "," + suiteType);
 
             for(int i=0 ; i<=OverViewTabRows.size()-1; i++)
             {
