@@ -6,6 +6,7 @@
     <parameter name="isParallel" value="false"/>
     <parameter name="RunHeadless" value="true"/>
 
+
     <listeners>
         <listener class-name="com.aeione.ops.generic.AnnotationTransformerListener"/>
         <listener class-name="com.aeione.ops.generic.TestListener"/>

@@ -5844,3 +5844,34 @@
 2020-08-24 11:29:46,704 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_03_LoginViaValidEmailAndPassword succeed , I am in onTestSuccess class LoginPageTest succeed 
 2020-08-24 11:29:52,074 INFO  [GenericFunctions] I am in onTestStart method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest start , I am in onTestStart class LoginPageTest start 
 2020-08-24 11:29:54,391 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_07_ResetPasswordWithInvalidMobileNumberTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-24 11:49:23,539 INFO  [GenericFunctions] I am in onStart method Chrome1-Execution 
+2020-08-24 11:49:23,544 INFO  [GenericFunctions] I am in onStart method Chrome2-Execution 
+2020-08-24 11:49:39,662 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-24 11:49:39,667 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-24 11:49:40,117 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_01_P1_ContentsOfLoginPageTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-24 11:49:47,182 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-24 11:49:50,350 INFO  [GenericFunctions] I am in onFinish method Chrome2-Execution 
+2020-08-24 11:49:56,658 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-24 11:49:58,364 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-24 11:49:58,369 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-24 11:49:58,497 INFO  [GenericFunctions] I am in onFinish method Chrome1-Execution 
+2020-08-24 11:51:52,697 INFO  [GenericFunctions] I am in onStart method Chrome2-Execution 
+2020-08-24 11:51:52,699 INFO  [GenericFunctions] I am in onStart method Chrome1-Execution 
+2020-08-24 11:52:08,120 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-24 11:52:08,204 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-24 11:52:08,662 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_01_P1_ContentsOfLoginPageTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-24 11:52:15,881 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-24 11:52:18,267 INFO  [GenericFunctions] I am in onFinish method Chrome2-Execution 
+2020-08-24 11:52:23,550 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-24 11:52:25,409 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-24 11:52:31,974 INFO  [GenericFunctions] I am in onFinish method Chrome1-Execution 
+2020-08-25 11:35:38,737 INFO  [GenericFunctions] I am in onStart method Chrome1-Execution 
+2020-08-25 11:35:38,743 INFO  [GenericFunctions] I am in onStart method Chrome2-Execution 
+2020-08-25 11:35:59,620 INFO  [GenericFunctions] I am in onTestStart method tc_RG_01_P1_RegistrationAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-25 11:35:59,734 INFO  [GenericFunctions] I am in onTestStart method tc_LG_01_P1_ContentsOfLoginPageTest start , I am in onTestStart class LoginPageTest start 
+2020-08-25 11:36:00,649 INFO  [GenericFunctions] I am in onTestSuccess method tc_LG_01_P1_ContentsOfLoginPageTest succeed , I am in onTestSuccess class LoginPageTest succeed 
+2020-08-25 11:36:09,523 INFO  [GenericFunctions] I am in onTestSuccess method tc_RG_01_P1_RegistrationAPITest succeed , I am in onTestSuccess class RegistrationPageTest succeed 
+2020-08-25 11:36:10,596 INFO  [GenericFunctions] I am in onFinish method Chrome2-Execution 
+2020-08-25 11:36:17,266 INFO  [GenericFunctions] I am in onTestStart method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest start , I am in onTestStart class RegistrationPageTest start 
+2020-08-25 11:36:19,362 INFO  [GenericFunctions] I am in onTestFailure method tc_RG_02_P1_RegistrationWithInvalidOTPAPITest failed, I am in onTestFailure class RegistrationPageTest failed 
+2020-08-25 11:36:27,148 INFO  [GenericFunctions] I am in onFinish method Chrome1-Execution 
